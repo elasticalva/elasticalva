@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/elasticalva"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/elasticalva"><img src="./img/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonos8.es%2Ficon%2F44900%2Fgithub&psig=AOvVaw07J-45-ufOIQ0NOjuNn5GH&ust=1610445222000000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICXgJDOk-4CFQAAAAAdAAAAABAD" alt="LinkedIn"/></a>
 </p>
