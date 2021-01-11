@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 	
 ### Let's Connect	
 <p align="center">
-	<a href="https://github.com/elasticalva"><img src="./img/github.png" width="24" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="24" alt="LinkedIn"/></a>
+	<a href="https://github.com/elasticalva"><img src="./img/github.png" width="32" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="32" alt="LinkedIn"/></a>
 </p>
