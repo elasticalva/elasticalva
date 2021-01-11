@@ -2,7 +2,7 @@
 
 
 Hi, I'm Álvaro Acevedo 👋
-I'm an UX-UI designer who combines the concern for user experience with a bit of knowledge in FrontEnd development.
+I'm an UX-UI Designer who combines the concern for user experience with a bit of knowledge in FrontEnd development.
 
 I love designing usable things
 
