@@ -9,10 +9,11 @@ I love designing usable things
 - <a href="https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu"><img src="./img/spotify.png" width="20" alt="Spotify"/></a> [Listening to this right now!](https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu "SuperHot Playlist")
 
 	
-### 📫 Let's Connect	
+### Let's Connect	
 <p align="center">
 	<a href="https://github.com/elasticalva"><img src="./img/github.png" width="32" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="32" alt="LinkedIn"/></a>
+	<a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <a href="https://elasticalva.github.io/ux-ui-portfolio-alvaroacevedo/">![](./img/repository2.png "Álvaro Acevedo Portfolio")</a>
