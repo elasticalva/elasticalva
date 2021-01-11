@@ -6,7 +6,7 @@ I love designing usable things
 - 📚 I’m currently learning JavaScript and mathematics required for ML and Data Science.
 - 🙏 I’m looking to collaborate on projects that are using Python.
 - 📷 I Write blogs on dev.to on free days.
-- <a href="https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu"><img src="./img/spotify.png" width="24" alt="Spotify"/></a> [Listening to this right now!](https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu "SuperHot Playlist")
+- <a href="https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu"><img src="./img/spotify.png" width="20" alt="Spotify"/></a> [Listening to this right now!](https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu "SuperHot Playlist")
 
 	
 ### 📫 Let's Connect	
