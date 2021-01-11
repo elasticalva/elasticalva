@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/elasticalva"><img src="./img/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/alvaroacevedo/"><./img/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" alt="LinkedIn"/></a>
 </p>
