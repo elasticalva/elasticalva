@@ -16,3 +16,5 @@ I love designing usable things
 </p>
 
 ![Portfolio](./img/repository2.png)
+
+<a href="https://github.com/elasticalva"><img src="./img/repository2.png" alt="GitHub"/></a>
