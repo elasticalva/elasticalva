@@ -13,7 +13,7 @@ I love designing usable things
 <p align="center">
 	<a href="https://github.com/elasticalva"><img src="./img/github.png" width="32" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="32" alt="LinkedIn"/></a>
-	<a href="mailto:aacemau@gmail.com?"><img src="./img/email.png" width="32" alt="email"/></a>
+	<a href="mailto:aacemau@gmail.com"><img src="./img/email2.png" width="32" alt="email"/></a>
 </p>
 
 <a href="https://elasticalva.github.io/ux-ui-portfolio-alvaroacevedo/">![](./img/repository2.png "Álvaro Acevedo Portfolio")</a>
