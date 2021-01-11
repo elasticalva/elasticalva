@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 - :pencil2: I Write blogs on dev.to on free days.
 - :musical_note: I love to hear this music: <a href="https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu"><img src="./img/spotify.png" width="32" alt="Spotify"/></a>
 
-<iframe src="https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
 	
 ### Let's Connect	
 <p align="center">
