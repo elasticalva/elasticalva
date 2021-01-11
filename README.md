@@ -15,4 +15,4 @@ I love designing usable things
 	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="32" alt="LinkedIn"/></a>
 </p>
 
-<a href="https://github.com/elasticalva">![Foo](./img/repository2.png "Optional title")</a>
+<a href="https://github.com/elasticalva">(./img/repository2.png "Optional title")</a>
