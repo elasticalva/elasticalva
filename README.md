@@ -12,7 +12,7 @@ I love designing usable things
 ### Let's Connect	
 <p align="center">
 	<a href="https://github.com/elasticalva"><img src="./img/github.png" width="32" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="32" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="34" alt="LinkedIn"/></a>
 	<a href="mailto:aacemau@gmail.com"><img src="./img/mail.png" width="30" alt="email"/></a>
 </p>
 
