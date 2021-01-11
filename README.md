@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that are using Python.
 - 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
 - :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear this music: <a href="https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu"><img src="./img/spotify.png" width="32" alt="Spotify"/></a>
+- <a href="https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu"><img src="./img/spotify.png" width="24" alt="Spotify"/></a> Listening to this right now!
 
 	
 ### Let's Connect	
