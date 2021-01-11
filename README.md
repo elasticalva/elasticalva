@@ -16,3 +16,6 @@ I love designing usable things
 </p>
 
 <a href="https://github.com/elasticalva"><img src="./img/repository2.png"/></a>
+
+
+![Alt text](img src="./img/repository2.png "Optional title")
