@@ -21,4 +21,4 @@ I love designing usable things
 ![Alt text](./img/repository2.png "Optional title")
 
 
-<a href="https://github.com/elasticalva" rel="alvaro">![Foo](./img/repository2.png)</a>
+<a href="https://github.com/elasticalva" rel="alvaro">![Foo](./img/repository2.png "Optional title")</a>
