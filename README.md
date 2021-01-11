@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### Let's Connect :coffee:
 <p align="center">
+	### Let's Connect :coffee:
 	<a href="https://github.com/elasticalva"><img src="./img/github.png" width="48" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="48" alt="LinkedIn"/></a>
 </p>
