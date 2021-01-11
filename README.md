@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - :pencil2: I Write blogs on dev.to on free days.
 - :musical_note: I love to hear country music.
 
-
-### Let's Connect :coffee:
 <p align="center">
-	### Let's Connect :coffee:
+### Let's Connect :coffee:
+	</p>
+<p align="center">
 	<a href="https://github.com/elasticalva"><img src="./img/github.png" width="48" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="48" alt="LinkedIn"/></a>
 </p>
