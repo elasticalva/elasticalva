@@ -15,6 +15,4 @@ I love designing usable things
 	<a href="https://www.linkedin.com/in/alvaroacevedo/"><img src="./img/linkedin.png" width="32" alt="LinkedIn"/></a>
 </p>
 
-![Portfolio](./img/repository2.png)
-
-<a href="https://github.com/elasticalva"><img src="./img/repository2.png" alt="GitHub"/></a>
+<a href="https://github.com/elasticalva"><img src="./img/repository2.png" alt="Álvaro Acevedo Portfolio"/></a>
