@@ -20,4 +20,4 @@ I love designing usable things
 	<a href="mailto:aacemau@gmail.com"><img src="./img/mail.png" width="32" alt="email"/></a>
 </p>
 
-<a href="https://elasticalva.github.io/ux-ui-portfolio-alvaroacevedo/">![](./img/repository2.png "Álvaro Acevedo Portfolio")</a>
+<a href="https://elasticalva.github.io/alvaroacevedo/">![](./img/repository2.png "Álvaro Acevedo Portfolio")</a>
