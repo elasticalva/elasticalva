@@ -9,7 +9,8 @@ I love designing usable things
 ⚡ Fun fact:
 - 📚 I’m currently learning JavaScript for FrontEnd development.
 - 🙏 I’m looking to collaborate with a game developer to make an idea real.
-- 📷 Sometimes I  like taking pictures.
+- 📷 I like taking pictures.
+- 🐙 Sometimes I play with the Octatrack
 - <a href="https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu"><img src="./img/spotify.png" width="20" alt="Spotify"/></a> [Listening to this right now!](https://open.spotify.com/embed/playlist/0pUbvYaeZVB97RDLZK3Wqu "SuperHot Playlist")
 
 	
